@@ -14,7 +14,7 @@ This Java program to display a menu of 3 options/parts.
 
 Any other option should result in asking again.
 <br> Use a continuous loop allowing the user to select from the list of options.
-<hr>
+
 Extra: 
 
 * Option 5
